@@ -1,2 +1,2 @@
 # MyArtBook
-Android art book app, you can add iamges from your gallery ,using permissions, and list them.
+Android art book app, you can add images from your gallery ,using permissions, and list them.
